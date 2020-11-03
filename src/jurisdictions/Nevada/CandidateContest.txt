@@ -71,6 +71,307 @@ NV Governor	1	NV Governor
 US Senate NV	1	US Senate NV	
 NV Attorney General	1	NV Attorney General	
 NV Lieutenant Governor	1	NV Lieutenant Governor	
-NV State Treasurer	1	NV State Treasurer
-NV Secretary of State	1	NV Secretary of State
-NV State Controller	1	NV State Controller
+NV State Treasurer	1	NV State Treasurer	
+NV Secretary of State	1	NV Secretary of State	
+NV State Controller	1	NV State Controller	
+NV House District 1 (Democratic Party)	1	NV House District 1	Democratic Party
+NV House District 2 (Democratic Party)	1	NV House District 2	Democratic Party
+NV House District 3 (Democratic Party)	1	NV House District 3	Democratic Party
+NV House District 4 (Democratic Party)	1	NV House District 4	Democratic Party
+NV House District 5 (Democratic Party)	1	NV House District 5	Democratic Party
+NV House District 6 (Democratic Party)	1	NV House District 6	Democratic Party
+NV House District 7 (Democratic Party)	1	NV House District 7	Democratic Party
+NV House District 8 (Democratic Party)	1	NV House District 8	Democratic Party
+NV House District 9 (Democratic Party)	1	NV House District 9	Democratic Party
+NV House District 10 (Democratic Party)	1	NV House District 10	Democratic Party
+NV House District 11 (Democratic Party)	1	NV House District 11	Democratic Party
+NV House District 12 (Democratic Party)	1	NV House District 12	Democratic Party
+NV House District 13 (Democratic Party)	1	NV House District 13	Democratic Party
+NV House District 14 (Democratic Party)	1	NV House District 14	Democratic Party
+NV House District 15 (Democratic Party)	1	NV House District 15	Democratic Party
+NV House District 16 (Democratic Party)	1	NV House District 16	Democratic Party
+NV House District 17 (Democratic Party)	1	NV House District 17	Democratic Party
+NV House District 18 (Democratic Party)	1	NV House District 18	Democratic Party
+NV House District 19 (Democratic Party)	1	NV House District 19	Democratic Party
+NV House District 20 (Democratic Party)	1	NV House District 20	Democratic Party
+NV House District 21 (Democratic Party)	1	NV House District 21	Democratic Party
+NV House District 22 (Democratic Party)	1	NV House District 22	Democratic Party
+NV House District 23 (Democratic Party)	1	NV House District 23	Democratic Party
+NV House District 24 (Democratic Party)	1	NV House District 24	Democratic Party
+NV House District 25 (Democratic Party)	1	NV House District 25	Democratic Party
+NV House District 26 (Democratic Party)	1	NV House District 26	Democratic Party
+NV House District 27 (Democratic Party)	1	NV House District 27	Democratic Party
+NV House District 28 (Democratic Party)	1	NV House District 28	Democratic Party
+NV House District 29 (Democratic Party)	1	NV House District 29	Democratic Party
+NV House District 30 (Democratic Party)	1	NV House District 30	Democratic Party
+NV House District 31 (Democratic Party)	1	NV House District 31	Democratic Party
+NV House District 32 (Democratic Party)	1	NV House District 32	Democratic Party
+NV House District 33 (Democratic Party)	1	NV House District 33	Democratic Party
+NV House District 34 (Democratic Party)	1	NV House District 34	Democratic Party
+NV House District 35 (Democratic Party)	1	NV House District 35	Democratic Party
+NV House District 36 (Democratic Party)	1	NV House District 36	Democratic Party
+NV House District 37 (Democratic Party)	1	NV House District 37	Democratic Party
+NV House District 38 (Democratic Party)	1	NV House District 38	Democratic Party
+NV House District 39 (Democratic Party)	1	NV House District 39	Democratic Party
+NV House District 40 (Democratic Party)	1	NV House District 40	Democratic Party
+NV House District 41 (Democratic Party)	1	NV House District 41	Democratic Party
+NV House District 42 (Democratic Party)	1	NV House District 42	Democratic Party
+NV Senate District 1 (Democratic Party)	1	NV Senate District 1	Democratic Party
+NV Senate District 2 (Democratic Party)	1	NV Senate District 2	Democratic Party
+NV Senate District 3 (Democratic Party)	1	NV Senate District 3	Democratic Party
+NV Senate District 4 (Democratic Party)	1	NV Senate District 4	Democratic Party
+NV Senate District 5 (Democratic Party)	1	NV Senate District 5	Democratic Party
+NV Senate District 6 (Democratic Party)	1	NV Senate District 6	Democratic Party
+NV Senate District 7 (Democratic Party)	1	NV Senate District 7	Democratic Party
+NV Senate District 8 (Democratic Party)	1	NV Senate District 8	Democratic Party
+NV Senate District 9 (Democratic Party)	1	NV Senate District 9	Democratic Party
+NV Senate District 10 (Democratic Party)	1	NV Senate District 10	Democratic Party
+NV Senate District 11 (Democratic Party)	1	NV Senate District 11	Democratic Party
+NV Senate District 12 (Democratic Party)	1	NV Senate District 12	Democratic Party
+NV Senate District 13 (Democratic Party)	1	NV Senate District 13	Democratic Party
+NV Senate District 14 (Democratic Party)	1	NV Senate District 14	Democratic Party
+NV Senate District 15 (Democratic Party)	1	NV Senate District 15	Democratic Party
+NV Senate District 16 (Democratic Party)	1	NV Senate District 16	Democratic Party
+NV Senate District 17 (Democratic Party)	1	NV Senate District 17	Democratic Party
+NV Senate District 18 (Democratic Party)	1	NV Senate District 18	Democratic Party
+NV Senate District 19 (Democratic Party)	1	NV Senate District 19	Democratic Party
+NV Senate District 20 (Democratic Party)	1	NV Senate District 20	Democratic Party
+NV Senate District 21 (Democratic Party)	1	NV Senate District 21	Democratic Party
+US House NV District 1 (Democratic Party)	1	US House NV District 1	Democratic Party
+US House NV District 2 (Democratic Party)	1	US House NV District 2	Democratic Party
+US House NV District 3 (Democratic Party)	1	US House NV District 3	Democratic Party
+US House NV District 4 (Democratic Party)	1	US House NV District 4	Democratic Party
+US President (NV) (Democratic Party)	1	US President (NV)	Democratic Party
+NV Governor (Democratic Party)	1	NV Governor	Democratic Party
+US Senate NV (Democratic Party)	1	US Senate NV	Democratic Party
+NV Attorney General (Democratic Party)	1	NV Attorney General	Democratic Party
+NV Lieutenant Governor (Democratic Party)	1	NV Lieutenant Governor	Democratic Party
+NV State Treasurer (Democratic Party)	1	NV State Treasurer	Democratic Party
+NV Secretary of State (Democratic Party)	1	NV Secretary of State	Democratic Party
+NV State Controller (Democratic Party)	1	NV State Controller	Democratic Party
+NV House District 1 (Republican Party)	1	NV House District 1	Republican Party
+NV House District 2 (Republican Party)	1	NV House District 2	Republican Party
+NV House District 3 (Republican Party)	1	NV House District 3	Republican Party
+NV House District 4 (Republican Party)	1	NV House District 4	Republican Party
+NV House District 5 (Republican Party)	1	NV House District 5	Republican Party
+NV House District 6 (Republican Party)	1	NV House District 6	Republican Party
+NV House District 7 (Republican Party)	1	NV House District 7	Republican Party
+NV House District 8 (Republican Party)	1	NV House District 8	Republican Party
+NV House District 9 (Republican Party)	1	NV House District 9	Republican Party
+NV House District 10 (Republican Party)	1	NV House District 10	Republican Party
+NV House District 11 (Republican Party)	1	NV House District 11	Republican Party
+NV House District 12 (Republican Party)	1	NV House District 12	Republican Party
+NV House District 13 (Republican Party)	1	NV House District 13	Republican Party
+NV House District 14 (Republican Party)	1	NV House District 14	Republican Party
+NV House District 15 (Republican Party)	1	NV House District 15	Republican Party
+NV House District 16 (Republican Party)	1	NV House District 16	Republican Party
+NV House District 17 (Republican Party)	1	NV House District 17	Republican Party
+NV House District 18 (Republican Party)	1	NV House District 18	Republican Party
+NV House District 19 (Republican Party)	1	NV House District 19	Republican Party
+NV House District 20 (Republican Party)	1	NV House District 20	Republican Party
+NV House District 21 (Republican Party)	1	NV House District 21	Republican Party
+NV House District 22 (Republican Party)	1	NV House District 22	Republican Party
+NV House District 23 (Republican Party)	1	NV House District 23	Republican Party
+NV House District 24 (Republican Party)	1	NV House District 24	Republican Party
+NV House District 25 (Republican Party)	1	NV House District 25	Republican Party
+NV House District 26 (Republican Party)	1	NV House District 26	Republican Party
+NV House District 27 (Republican Party)	1	NV House District 27	Republican Party
+NV House District 28 (Republican Party)	1	NV House District 28	Republican Party
+NV House District 29 (Republican Party)	1	NV House District 29	Republican Party
+NV House District 30 (Republican Party)	1	NV House District 30	Republican Party
+NV House District 31 (Republican Party)	1	NV House District 31	Republican Party
+NV House District 32 (Republican Party)	1	NV House District 32	Republican Party
+NV House District 33 (Republican Party)	1	NV House District 33	Republican Party
+NV House District 34 (Republican Party)	1	NV House District 34	Republican Party
+NV House District 35 (Republican Party)	1	NV House District 35	Republican Party
+NV House District 36 (Republican Party)	1	NV House District 36	Republican Party
+NV House District 37 (Republican Party)	1	NV House District 37	Republican Party
+NV House District 38 (Republican Party)	1	NV House District 38	Republican Party
+NV House District 39 (Republican Party)	1	NV House District 39	Republican Party
+NV House District 40 (Republican Party)	1	NV House District 40	Republican Party
+NV House District 41 (Republican Party)	1	NV House District 41	Republican Party
+NV House District 42 (Republican Party)	1	NV House District 42	Republican Party
+NV Senate District 1 (Republican Party)	1	NV Senate District 1	Republican Party
+NV Senate District 2 (Republican Party)	1	NV Senate District 2	Republican Party
+NV Senate District 3 (Republican Party)	1	NV Senate District 3	Republican Party
+NV Senate District 4 (Republican Party)	1	NV Senate District 4	Republican Party
+NV Senate District 5 (Republican Party)	1	NV Senate District 5	Republican Party
+NV Senate District 6 (Republican Party)	1	NV Senate District 6	Republican Party
+NV Senate District 7 (Republican Party)	1	NV Senate District 7	Republican Party
+NV Senate District 8 (Republican Party)	1	NV Senate District 8	Republican Party
+NV Senate District 9 (Republican Party)	1	NV Senate District 9	Republican Party
+NV Senate District 10 (Republican Party)	1	NV Senate District 10	Republican Party
+NV Senate District 11 (Republican Party)	1	NV Senate District 11	Republican Party
+NV Senate District 12 (Republican Party)	1	NV Senate District 12	Republican Party
+NV Senate District 13 (Republican Party)	1	NV Senate District 13	Republican Party
+NV Senate District 14 (Republican Party)	1	NV Senate District 14	Republican Party
+NV Senate District 15 (Republican Party)	1	NV Senate District 15	Republican Party
+NV Senate District 16 (Republican Party)	1	NV Senate District 16	Republican Party
+NV Senate District 17 (Republican Party)	1	NV Senate District 17	Republican Party
+NV Senate District 18 (Republican Party)	1	NV Senate District 18	Republican Party
+NV Senate District 19 (Republican Party)	1	NV Senate District 19	Republican Party
+NV Senate District 20 (Republican Party)	1	NV Senate District 20	Republican Party
+NV Senate District 21 (Republican Party)	1	NV Senate District 21	Republican Party
+US House NV District 1 (Republican Party)	1	US House NV District 1	Republican Party
+US House NV District 2 (Republican Party)	1	US House NV District 2	Republican Party
+US House NV District 3 (Republican Party)	1	US House NV District 3	Republican Party
+US House NV District 4 (Republican Party)	1	US House NV District 4	Republican Party
+US President (NV) (Republican Party)	1	US President (NV)	Republican Party
+NV Governor (Republican Party)	1	NV Governor	Republican Party
+US Senate NV (Republican Party)	1	US Senate NV	Republican Party
+NV Attorney General (Republican Party)	1	NV Attorney General	Republican Party
+NV Lieutenant Governor (Republican Party)	1	NV Lieutenant Governor	Republican Party
+NV State Treasurer (Republican Party)	1	NV State Treasurer	Republican Party
+NV Secretary of State (Republican Party)	1	NV Secretary of State	Republican Party
+NV State Controller (Republican Party)	1	NV State Controller	Republican Party
+NV House District 1 (Green Party)	1	NV House District 1	Green Party
+NV House District 2 (Green Party)	1	NV House District 2	Green Party
+NV House District 3 (Green Party)	1	NV House District 3	Green Party
+NV House District 4 (Green Party)	1	NV House District 4	Green Party
+NV House District 5 (Green Party)	1	NV House District 5	Green Party
+NV House District 6 (Green Party)	1	NV House District 6	Green Party
+NV House District 7 (Green Party)	1	NV House District 7	Green Party
+NV House District 8 (Green Party)	1	NV House District 8	Green Party
+NV House District 9 (Green Party)	1	NV House District 9	Green Party
+NV House District 10 (Green Party)	1	NV House District 10	Green Party
+NV House District 11 (Green Party)	1	NV House District 11	Green Party
+NV House District 12 (Green Party)	1	NV House District 12	Green Party
+NV House District 13 (Green Party)	1	NV House District 13	Green Party
+NV House District 14 (Green Party)	1	NV House District 14	Green Party
+NV House District 15 (Green Party)	1	NV House District 15	Green Party
+NV House District 16 (Green Party)	1	NV House District 16	Green Party
+NV House District 17 (Green Party)	1	NV House District 17	Green Party
+NV House District 18 (Green Party)	1	NV House District 18	Green Party
+NV House District 19 (Green Party)	1	NV House District 19	Green Party
+NV House District 20 (Green Party)	1	NV House District 20	Green Party
+NV House District 21 (Green Party)	1	NV House District 21	Green Party
+NV House District 22 (Green Party)	1	NV House District 22	Green Party
+NV House District 23 (Green Party)	1	NV House District 23	Green Party
+NV House District 24 (Green Party)	1	NV House District 24	Green Party
+NV House District 25 (Green Party)	1	NV House District 25	Green Party
+NV House District 26 (Green Party)	1	NV House District 26	Green Party
+NV House District 27 (Green Party)	1	NV House District 27	Green Party
+NV House District 28 (Green Party)	1	NV House District 28	Green Party
+NV House District 29 (Green Party)	1	NV House District 29	Green Party
+NV House District 30 (Green Party)	1	NV House District 30	Green Party
+NV House District 31 (Green Party)	1	NV House District 31	Green Party
+NV House District 32 (Green Party)	1	NV House District 32	Green Party
+NV House District 33 (Green Party)	1	NV House District 33	Green Party
+NV House District 34 (Green Party)	1	NV House District 34	Green Party
+NV House District 35 (Green Party)	1	NV House District 35	Green Party
+NV House District 36 (Green Party)	1	NV House District 36	Green Party
+NV House District 37 (Green Party)	1	NV House District 37	Green Party
+NV House District 38 (Green Party)	1	NV House District 38	Green Party
+NV House District 39 (Green Party)	1	NV House District 39	Green Party
+NV House District 40 (Green Party)	1	NV House District 40	Green Party
+NV House District 41 (Green Party)	1	NV House District 41	Green Party
+NV House District 42 (Green Party)	1	NV House District 42	Green Party
+NV Senate District 1 (Green Party)	1	NV Senate District 1	Green Party
+NV Senate District 2 (Green Party)	1	NV Senate District 2	Green Party
+NV Senate District 3 (Green Party)	1	NV Senate District 3	Green Party
+NV Senate District 4 (Green Party)	1	NV Senate District 4	Green Party
+NV Senate District 5 (Green Party)	1	NV Senate District 5	Green Party
+NV Senate District 6 (Green Party)	1	NV Senate District 6	Green Party
+NV Senate District 7 (Green Party)	1	NV Senate District 7	Green Party
+NV Senate District 8 (Green Party)	1	NV Senate District 8	Green Party
+NV Senate District 9 (Green Party)	1	NV Senate District 9	Green Party
+NV Senate District 10 (Green Party)	1	NV Senate District 10	Green Party
+NV Senate District 11 (Green Party)	1	NV Senate District 11	Green Party
+NV Senate District 12 (Green Party)	1	NV Senate District 12	Green Party
+NV Senate District 13 (Green Party)	1	NV Senate District 13	Green Party
+NV Senate District 14 (Green Party)	1	NV Senate District 14	Green Party
+NV Senate District 15 (Green Party)	1	NV Senate District 15	Green Party
+NV Senate District 16 (Green Party)	1	NV Senate District 16	Green Party
+NV Senate District 17 (Green Party)	1	NV Senate District 17	Green Party
+NV Senate District 18 (Green Party)	1	NV Senate District 18	Green Party
+NV Senate District 19 (Green Party)	1	NV Senate District 19	Green Party
+NV Senate District 20 (Green Party)	1	NV Senate District 20	Green Party
+NV Senate District 21 (Green Party)	1	NV Senate District 21	Green Party
+US House NV District 1 (Green Party)	1	US House NV District 1	Green Party
+US House NV District 2 (Green Party)	1	US House NV District 2	Green Party
+US House NV District 3 (Green Party)	1	US House NV District 3	Green Party
+US House NV District 4 (Green Party)	1	US House NV District 4	Green Party
+US President (NV) (Green Party)	1	US President (NV)	Green Party
+NV Governor (Green Party)	1	NV Governor	Green Party
+US Senate NV (Green Party)	1	US Senate NV	Green Party
+NV Attorney General (Green Party)	1	NV Attorney General	Green Party
+NV Lieutenant Governor (Green Party)	1	NV Lieutenant Governor	Green Party
+NV State Treasurer (Green Party)	1	NV State Treasurer	Green Party
+NV Secretary of State (Green Party)	1	NV Secretary of State	Green Party
+NV State Controller (Green Party)	1	NV State Controller	Green Party
+NV House District 1 (Libertarian Party)	1	NV House District 1	Libertarian Party
+NV House District 2 (Libertarian Party)	1	NV House District 2	Libertarian Party
+NV House District 3 (Libertarian Party)	1	NV House District 3	Libertarian Party
+NV House District 4 (Libertarian Party)	1	NV House District 4	Libertarian Party
+NV House District 5 (Libertarian Party)	1	NV House District 5	Libertarian Party
+NV House District 6 (Libertarian Party)	1	NV House District 6	Libertarian Party
+NV House District 7 (Libertarian Party)	1	NV House District 7	Libertarian Party
+NV House District 8 (Libertarian Party)	1	NV House District 8	Libertarian Party
+NV House District 9 (Libertarian Party)	1	NV House District 9	Libertarian Party
+NV House District 10 (Libertarian Party)	1	NV House District 10	Libertarian Party
+NV House District 11 (Libertarian Party)	1	NV House District 11	Libertarian Party
+NV House District 12 (Libertarian Party)	1	NV House District 12	Libertarian Party
+NV House District 13 (Libertarian Party)	1	NV House District 13	Libertarian Party
+NV House District 14 (Libertarian Party)	1	NV House District 14	Libertarian Party
+NV House District 15 (Libertarian Party)	1	NV House District 15	Libertarian Party
+NV House District 16 (Libertarian Party)	1	NV House District 16	Libertarian Party
+NV House District 17 (Libertarian Party)	1	NV House District 17	Libertarian Party
+NV House District 18 (Libertarian Party)	1	NV House District 18	Libertarian Party
+NV House District 19 (Libertarian Party)	1	NV House District 19	Libertarian Party
+NV House District 20 (Libertarian Party)	1	NV House District 20	Libertarian Party
+NV House District 21 (Libertarian Party)	1	NV House District 21	Libertarian Party
+NV House District 22 (Libertarian Party)	1	NV House District 22	Libertarian Party
+NV House District 23 (Libertarian Party)	1	NV House District 23	Libertarian Party
+NV House District 24 (Libertarian Party)	1	NV House District 24	Libertarian Party
+NV House District 25 (Libertarian Party)	1	NV House District 25	Libertarian Party
+NV House District 26 (Libertarian Party)	1	NV House District 26	Libertarian Party
+NV House District 27 (Libertarian Party)	1	NV House District 27	Libertarian Party
+NV House District 28 (Libertarian Party)	1	NV House District 28	Libertarian Party
+NV House District 29 (Libertarian Party)	1	NV House District 29	Libertarian Party
+NV House District 30 (Libertarian Party)	1	NV House District 30	Libertarian Party
+NV House District 31 (Libertarian Party)	1	NV House District 31	Libertarian Party
+NV House District 32 (Libertarian Party)	1	NV House District 32	Libertarian Party
+NV House District 33 (Libertarian Party)	1	NV House District 33	Libertarian Party
+NV House District 34 (Libertarian Party)	1	NV House District 34	Libertarian Party
+NV House District 35 (Libertarian Party)	1	NV House District 35	Libertarian Party
+NV House District 36 (Libertarian Party)	1	NV House District 36	Libertarian Party
+NV House District 37 (Libertarian Party)	1	NV House District 37	Libertarian Party
+NV House District 38 (Libertarian Party)	1	NV House District 38	Libertarian Party
+NV House District 39 (Libertarian Party)	1	NV House District 39	Libertarian Party
+NV House District 40 (Libertarian Party)	1	NV House District 40	Libertarian Party
+NV House District 41 (Libertarian Party)	1	NV House District 41	Libertarian Party
+NV House District 42 (Libertarian Party)	1	NV House District 42	Libertarian Party
+NV Senate District 1 (Libertarian Party)	1	NV Senate District 1	Libertarian Party
+NV Senate District 2 (Libertarian Party)	1	NV Senate District 2	Libertarian Party
+NV Senate District 3 (Libertarian Party)	1	NV Senate District 3	Libertarian Party
+NV Senate District 4 (Libertarian Party)	1	NV Senate District 4	Libertarian Party
+NV Senate District 5 (Libertarian Party)	1	NV Senate District 5	Libertarian Party
+NV Senate District 6 (Libertarian Party)	1	NV Senate District 6	Libertarian Party
+NV Senate District 7 (Libertarian Party)	1	NV Senate District 7	Libertarian Party
+NV Senate District 8 (Libertarian Party)	1	NV Senate District 8	Libertarian Party
+NV Senate District 9 (Libertarian Party)	1	NV Senate District 9	Libertarian Party
+NV Senate District 10 (Libertarian Party)	1	NV Senate District 10	Libertarian Party
+NV Senate District 11 (Libertarian Party)	1	NV Senate District 11	Libertarian Party
+NV Senate District 12 (Libertarian Party)	1	NV Senate District 12	Libertarian Party
+NV Senate District 13 (Libertarian Party)	1	NV Senate District 13	Libertarian Party
+NV Senate District 14 (Libertarian Party)	1	NV Senate District 14	Libertarian Party
+NV Senate District 15 (Libertarian Party)	1	NV Senate District 15	Libertarian Party
+NV Senate District 16 (Libertarian Party)	1	NV Senate District 16	Libertarian Party
+NV Senate District 17 (Libertarian Party)	1	NV Senate District 17	Libertarian Party
+NV Senate District 18 (Libertarian Party)	1	NV Senate District 18	Libertarian Party
+NV Senate District 19 (Libertarian Party)	1	NV Senate District 19	Libertarian Party
+NV Senate District 20 (Libertarian Party)	1	NV Senate District 20	Libertarian Party
+NV Senate District 21 (Libertarian Party)	1	NV Senate District 21	Libertarian Party
+US House NV District 1 (Libertarian Party)	1	US House NV District 1	Libertarian Party
+US House NV District 2 (Libertarian Party)	1	US House NV District 2	Libertarian Party
+US House NV District 3 (Libertarian Party)	1	US House NV District 3	Libertarian Party
+US House NV District 4 (Libertarian Party)	1	US House NV District 4	Libertarian Party
+US President (NV) (Libertarian Party)	1	US President (NV)	Libertarian Party
+NV Governor (Libertarian Party)	1	NV Governor	Libertarian Party
+US Senate NV (Libertarian Party)	1	US Senate NV	Libertarian Party
+NV Attorney General (Libertarian Party)	1	NV Attorney General	Libertarian Party
+NV Lieutenant Governor (Libertarian Party)	1	NV Lieutenant Governor	Libertarian Party
+NV State Treasurer (Libertarian Party)	1	NV State Treasurer	Libertarian Party
+NV Secretary of State (Libertarian Party)	1	NV Secretary of State	Libertarian Party
+NV State Controller (Libertarian Party)	1	NV State Controller	Libertarian Party
+

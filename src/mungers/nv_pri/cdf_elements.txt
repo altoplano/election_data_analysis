@@ -1,6 +1,6 @@
 name	raw_identifier_formula	source
 ReportingUnit	<Jurisdiction>;<Precinct>	row
-Party	Unknown	row
+Party	{<Contest>,\((.*?)\)}	row
 CandidateContest	<Contest>	row
 Candidate	<Selection>	row
 BallotMeasureContest	<Contest>	row
