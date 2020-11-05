@@ -1430,3 +1430,47 @@ ReportingUnit	Maine;Washington County;WAITE	WAS;Waite
 ReportingUnit	Maine;Washington County;WESLEY	WAS;Wesley
 ReportingUnit	Maine;Washington County;WHITING	WAS;Whiting
 ReportingUnit	Maine;Washington County;WHITNEYVILLE	WAS;Whitneyville
+ReportingUnit	Maine;Washington County;T26 ED BPP TOWNSHIP	WAS;T26 ED BPP TOWNSHIP
+ReportingUnit	Maine;Washington County;DENNYSVILLE	WAS;DENNYSVILLE
+ReportingUnit	Maine;Washington County;DANFORTH	WAS;DANFORTH
+ReportingUnit	Maine;Washington County;CENTERVILLE TWP	WAS;CENTERVILLE TWP
+ReportingUnit	Maine;Washington County;CATMaine;Hancock CountyCE TWP	WAS;CATHANCE TWP
+ReportingUnit	Maine;Washington County;BERRY TWP/CATMaine;Hancock CountyCE TWP/MARION TWP	WAS;BERRY TWP/CATHANCE TWP/MARION TWP
+ReportingUnit	Maine;Somerset County;LEXINGTON TWP/SPRING LAKE TWP	SOM;LEXINGTON TWP/SPRING LAKE TWP
+ReportingUnit	Maine;Somerset County;CONCORD TOWNSHIP	SOM;CONCORD TOWNSHIP
+ReportingUnit	Maine;Somerset CountyMaine;Piscataquis County;T10 R15 WELS	PIS;T10 R15 WELS
+ReportingUnit	Maine;Somerset CountyMaine;Piscataquis County;SEBEC	PIS;SEBEC
+ReportingUnit	Maine;Somerset CountyMaine;Piscataquis County;MILLINOCKET Maine;Somerset CountyMaine;Piscataquis CountyCATAQUS TOWNSHIPS	PIS;MILLINOCKET PISCATAQUS TOWNSHIPS
+ReportingUnit	Maine;Somerset CountyMaine;Piscataquis County;ELLIOTTSVILLE TWP	PIS;ELLIOTTSVILLE TWP
+ReportingUnit	Maine;Somerset CountyMaine;Piscataquis County;BARNARD TWP/EBEEMEE TWP/T4 R9 NWP/WILLIAMSBURG TWP	PIS;BARNARD TWP/EBEEMEE TWP/T4 R9 NWP/WILLIAMSBURG TWP
+ReportingUnit	Maine;Somerset CountyMaine;Piscataquis County;ATKINSON	PIS;ATKINSON
+ReportingUnit	Maine;Penobscot County;T5 R7 TWP/T5 R8 TWP/T6 R8 TWPS	PEN;T5 R7 TWP/T5 R8 TWP/T6 R8 TWPS
+ReportingUnit	Maine;Penobscot County;MILLINOCKET Maine;Penobscot CountyOBSCOT TOWNSHIPS	PEN;MILLINOCKET PENOBSCOT TOWNSHIPS
+ReportingUnit	Maine;Penobscot County;MATTAMISCONTIS TOWNSHIP	PEN;MATTAMISCONTIS TOWNSHIP
+ReportingUnit	Maine;Penobscot County;HERSEYTOWN TWP	PEN;HERSEYTOWN TWP
+ReportingUnit	Maine;Penobscot County;GRINDSTONE/HERSEYTOWN/SOLDIERTOWN TWP	PEN;GRINDSTONE/HERSEYTOWN/SOLDIERTOWN TWP
+ReportingUnit	Maine;Penobscot County;GRAND FALLS TOWNSHIP	PEN;GRAND FALLS TOWNSHIP
+ReportingUnit	Maine;Penobscot County;ARGYLE TOWNSHIP	PEN;ARGYLE TOWNSHIP
+ReportingUnit	Maine;Oxford County;MILTON TWP	OXF;MILTON TWP
+ReportingUnit	Maine;Knox County;CRIEHAVEN TOWNSHIP	KNO;CRIEHAVEN TOWNSHIP
+ReportingUnit	Maine;Hancock County;T9 SD/T10 SD TWP	HAN;T9 SD/T10 SD TWP
+ReportingUnit	Maine;Hancock County;T7 SD TWP	HAN;T7 SD TWP
+ReportingUnit	Maine;Hancock County;T3 ND TWP	HAN;T3 ND TWP
+ReportingUnit	Maine;Hancock County;T22 MD TWP	HAN;T22 MD TWP
+ReportingUnit	Maine;Hancock County;T10 SD TWP	HAN;T10 SD TWP
+ReportingUnit	Maine;Franklin County;WYMAN TWP	FRA;WYMAN TWP
+ReportingUnit	Maine;Franklin County;Maine;Washington CountyHINGTON TWP	FRA;WASHINGTON TWP
+ReportingUnit	Maine;Franklin County;PERKINS TOWNSHIP	FRA;PERKINS TOWNSHIP
+ReportingUnit	Maine;Aroostook County;TD R2 WELS	ARO;TD R2 WELS
+ReportingUnit	Maine;Aroostook County;T4 R3 TWP	ARO;T4 R3 TWP
+ReportingUnit	Maine;Aroostook County;T17 R3 VAN BUREN COVE TWP	ARO;T17 R3 VAN BUREN COVE TWP
+ReportingUnit	Maine;Aroostook County;T15 R6 TWP	ARO;T15 R6 TWP
+ReportingUnit	Maine;Aroostook County;T12/R13 WELS/T9 R8 WELS	ARO;T12/R13 WELS/T9 R8 WELS
+ReportingUnit	Maine;Aroostook County;T11 R4 WELS TWP	ARO;T11 R4 WELS TWP
+ReportingUnit	Maine;Aroostook County;OXBOW PLT	ARO;OXBOW PLT
+ReportingUnit	Maine;Aroostook County;MOLUNKUS TWP	ARO;MOLUNKUS TWP
+ReportingUnit	Maine;Aroostook County;MADAMaine;Washington CountyKA LAKE TWP (T16 R4)	ARO;MADAWASKA LAKE TWP (T16 R4)
+ReportingUnit	Maine;Aroostook County;E TWP	ARO;E TWP
+ReportingUnit	Maine;Aroostook County;CROSS LAKE TWP (T17 R5)	ARO;CROSS LAKE TWP (T17 R5)
+ReportingUnit	Maine;Aroostook County;CARY PLT	ARO;CARY PLT
+ReportingUnit	Maine;Aroostook County;BIG TWENTY TWP/T15 R15 WELS	ARO;BIG TWENTY TWP/T15 R15 WELS

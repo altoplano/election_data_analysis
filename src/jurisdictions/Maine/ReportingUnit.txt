@@ -702,3 +702,47 @@ Maine;Washington County;WAITE	precinct
 Maine;Washington County;WESLEY	precinct
 Maine;Washington County;WHITING	precinct
 Maine;Washington County;WHITNEYVILLE	precinct
+Maine;Washington County;T26 ED BPP TOWNSHIP	precinct
+Maine;Washington County;DENNYSVILLE	precinct
+Maine;Washington County;DANFORTH	precinct
+Maine;Washington County;CENTERVILLE TWP	precinct
+Maine;Washington County;CATMaine;Hancock CountyCE TWP	precinct
+Maine;Washington County;BERRY TWP/CATMaine;Hancock CountyCE TWP/MARION TWP	precinct
+Maine;Somerset County;LEXINGTON TWP/SPRING LAKE TWP	precinct
+Maine;Somerset County;CONCORD TOWNSHIP	precinct
+Maine;Somerset CountyMaine;Piscataquis County;T10 R15 WELS	precinct
+Maine;Somerset CountyMaine;Piscataquis County;SEBEC	precinct
+Maine;Somerset CountyMaine;Piscataquis County;MILLINOCKET Maine;Somerset CountyMaine;Piscataquis CountyCATAQUS TOWNSHIPS	precinct
+Maine;Somerset CountyMaine;Piscataquis County;ELLIOTTSVILLE TWP	precinct
+Maine;Somerset CountyMaine;Piscataquis County;BARNARD TWP/EBEEMEE TWP/T4 R9 NWP/WILLIAMSBURG TWP	precinct
+Maine;Somerset CountyMaine;Piscataquis County;ATKINSON	precinct
+Maine;Penobscot County;T5 R7 TWP/T5 R8 TWP/T6 R8 TWPS	precinct
+Maine;Penobscot County;MILLINOCKET Maine;Penobscot CountyOBSCOT TOWNSHIPS	precinct
+Maine;Penobscot County;MATTAMISCONTIS TOWNSHIP	precinct
+Maine;Penobscot County;HERSEYTOWN TWP	precinct
+Maine;Penobscot County;GRINDSTONE/HERSEYTOWN/SOLDIERTOWN TWP	precinct
+Maine;Penobscot County;GRAND FALLS TOWNSHIP	precinct
+Maine;Penobscot County;ARGYLE TOWNSHIP	precinct
+Maine;Oxford County;MILTON TWP	precinct
+Maine;Knox County;CRIEHAVEN TOWNSHIP	precinct
+Maine;Hancock County;T9 SD/T10 SD TWP	precinct
+Maine;Hancock County;T7 SD TWP	precinct
+Maine;Hancock County;T3 ND TWP	precinct
+Maine;Hancock County;T22 MD TWP	precinct
+Maine;Hancock County;T10 SD TWP	precinct
+Maine;Franklin County;WYMAN TWP	precinct
+Maine;Franklin County;Maine;Washington CountyHINGTON TWP	precinct
+Maine;Franklin County;PERKINS TOWNSHIP	precinct
+Maine;Aroostook County;TD R2 WELS	precinct
+Maine;Aroostook County;T4 R3 TWP	precinct
+Maine;Aroostook County;T17 R3 VAN BUREN COVE TWP	precinct
+Maine;Aroostook County;T15 R6 TWP	precinct
+Maine;Aroostook County;T12/R13 WELS/T9 R8 WELS	precinct
+Maine;Aroostook County;T11 R4 WELS TWP	precinct
+Maine;Aroostook County;OXBOW PLT	precinct
+Maine;Aroostook County;MOLUNKUS TWP	precinct
+Maine;Aroostook County;MADAMaine;Washington CountyKA LAKE TWP (T16 R4)	precinct
+Maine;Aroostook County;E TWP	precinct
+Maine;Aroostook County;CROSS LAKE TWP (T17 R5)	precinct
+Maine;Aroostook County;CARY PLT	precinct
+Maine;Aroostook County;BIG TWENTY TWP/T15 R15 WELS	precinct
