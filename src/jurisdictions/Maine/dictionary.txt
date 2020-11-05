@@ -204,6 +204,11 @@ Party	Democratic Party	Democratic Party
 Party	Republican Party	Republican Party
 Party	Green Party	Green Party
 Party	Libertarian Party	Libertarian Party
+Party	Democratic Party	Democrat
+Party	Republican Party	Republican
+Party	Green Party	Green Independent
+Party	Libertarian Party	Libertarian
+Party	Unenrolled Party	Unenrolled
 ReportingUnit	Maine;ME House District 1	Maine;ME House District 1
 ReportingUnit	Maine;ME House District 2	Maine;ME House District 2
 ReportingUnit	Maine;ME House District 3	Maine;ME House District 3
@@ -922,6 +927,14 @@ Candidate	Elizabeth A. Sweet	Sweet, Elizabeth A.
 Candidate	Bre Kidman	Kidman, Bre
 Candidate	Sara I. Gideon	Gideon, Sara I.
 CountItemType	uocava	UOCAVA
+Candidate	Clinton, Hillary R.	Clinton, Hillary R.
+Candidate	Johnson, Gary	Johnson, Gary
+Candidate	Stein, Jill	Stein, Jill
+Candidate	Trump, Donald J.	Trump, Donald J.
+Candidate	Castle, Darrell L.	Castle, Darrell L.
+Candidate	Fox, Cherunda L.	Fox, Cherunda L.
+Candidate	Kotlikoff, Laurence J.	Kotlikoff, Laurence J.
+Candidate	McMullin, David Evan	McMullin, David Evan
 ReportingUnit	Maine;Cumberland County;BALDWIN	CUM;Baldwin
 ReportingUnit	Maine;Cumberland County;BRIDGTON	CUM;Bridgton
 ReportingUnit	Maine;Cumberland County;BRUNSWICK	CUM;Brunswick

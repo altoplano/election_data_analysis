@@ -1,0 +1,6 @@
+name	raw_identifier_formula	source
+ReportingUnit	<CTY>;<Town>	row
+Candidate	<0>	column
+Party	<1>	column
+CandidateContest		ini
+CountItemType		ini
