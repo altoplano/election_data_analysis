@@ -1,0 +1,6 @@
+name	raw_identifier_formula	source
+ReportingUnit	<WARD>;<DIVISION>	row
+Party	<PARTY>	row
+CandidateContest		ini
+Candidate	<6>	column
+CountItemType	<TYPE>	row
